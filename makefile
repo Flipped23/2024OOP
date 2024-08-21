@@ -1,0 +1,2 @@
+main:
+	g++ -Wall -Wextra -o main Viewer.cpp Controller.cpp Model3D.cpp CountFixedElement3D.cpp Element3D.cpp Face3D.cpp Line3D.cpp Model3D_Exporter.cpp Model3D_Importer.cpp Model3D_OBJ_Importer.cpp Model3D_OBJ_Exporter.cpp Point3D.cpp Porter.cpp main.cpp
